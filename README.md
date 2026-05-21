@@ -1,4 +1,4 @@
-
+JUDAY
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -325,7 +325,7 @@ nav{
 <section class="hero">
 
 <!-- REPLACE WITH YOUR PHOTO -->
-<img src="IMG_7940.jpg" alt="Profile Picture">
+<img src="IMG_7940.jpeg" alt="Profile Picture">
 
 <div class="hero-text">
 
