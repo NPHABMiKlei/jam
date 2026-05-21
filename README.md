@@ -553,7 +553,6 @@ anxiety, and emotional challenges.
 
 <img src="IMG_8039.jpeg">
 <img src="IMG_9227.jpeg">
-<img src="IMG_9335.jeg">
 <img src="IMG_8220.jpeg">
 
 </div>
