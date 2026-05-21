@@ -7,10 +7,7 @@
 <body>
 
   <h1>Welcome to My Website</h1>
-  <p>This is my portfolio</p>
-
   <div>
-    <h2>About Me</h2>
     <p>Hello, I am Judy Ann 🌸</p>
   </div>
 
@@ -42,7 +39,7 @@
   <!-- CHAT CODE END -->
 
 </body>
-</html>JUDAY
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
