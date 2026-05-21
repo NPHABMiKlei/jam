@@ -555,7 +555,7 @@ anxiety, and emotional challenges.
 <img src="IMG_9227.jpeg">
 <img src="dogs.jpg">
 <img src="IMG_9335.jeg">
-<img src="floral.jpg">
+<img src="IMG_9347.jpeg">
 <img src="IMG_8229.jpeg">
 
 </div>
