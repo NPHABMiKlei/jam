@@ -551,12 +551,12 @@ anxiety, and emotional challenges.
 
 <!-- REPLACE THESE WITH YOUR OWN PHOTOS -->
 
-<img src="coffee.jpg">
-<img src="friends.jpg">
+<img src="IMG_8039.jpeg">
+<img src="IMG_9227.jpeg">
 <img src="dogs.jpg">
-<img src="snoopy.jpg">
+<img src="IMG_9335.jeg">
 <img src="floral.jpg">
-<img src="selfie.jpg">
+<img src="IMG_8229.jpeg">
 
 </div>
 
