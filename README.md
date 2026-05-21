@@ -316,6 +316,7 @@ nav{
 <li><a href="#interests">Interests</a></li>
 <li><a href="#gallery">Gallery</a></li>
 <li><a href="#contact">Contact</a></li>
+    
 </ul>
 
 </nav>
@@ -554,6 +555,7 @@ anxiety, and emotional challenges.
 <img src="IMG_8039.jpeg">
 <img src="IMG_9227.jpeg">
 <img src="IMG_8220.jpeg">
+<img src="IMG_2788.jpeg">
 
 </div>
 
