@@ -644,7 +644,7 @@ function typing(){
 typing();
 
 /* FLOATING HEARTS */
-
+    /*FLOATING FLOWERS */
 function createHeart(){
 
     const heart = document.createElement("div");
