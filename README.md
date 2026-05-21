@@ -623,7 +623,7 @@ Thank you for visiting my website 🌸
 
 /* TYPING EFFECT */
 
-const text = "Coffee Lover ☕ | Dog Lover 🐶 | Floral Soul 🌷";
+const text = " Dog Lover 🐶"
 
 let i = 0;
 
