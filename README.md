@@ -40,7 +40,7 @@ nav{
     justify-content:space-between;
     align-items:center;
     padding:15px 8%;
-    background:rgba(255,255,255,0.5);
+    background:rgba(255,255,255,0.6);
     backdrop-filter:blur(10px);
     z-index:1000;
 }
@@ -53,8 +53,9 @@ nav{
 
 nav ul{
     display:flex;
-    gap:25px;
+    gap:20px;
     list-style:none;
+    flex-wrap:wrap;
 }
 
 nav ul li a{
@@ -78,7 +79,6 @@ nav ul li a:hover{
     flex-wrap:wrap;
     padding:120px 10%;
     gap:50px;
-    position:relative;
 }
 
 .hero img{
@@ -109,7 +109,6 @@ nav ul li a:hover{
 
 .hero-text h2{
     margin:20px 0;
-    color:#6b5b6b;
 }
 
 .hero-text p{
@@ -312,6 +311,7 @@ nav{
 <ul>
 <li><a href="#about">About</a></li>
 <li><a href="#education">Education</a></li>
+<li><a href="#family">Family</a></li>
 <li><a href="#interests">Interests</a></li>
 <li><a href="#gallery">Gallery</a></li>
 <li><a href="#contact">Contact</a></li>
@@ -324,7 +324,7 @@ nav{
 <section class="hero">
 
 <!-- REPLACE WITH YOUR PHOTO -->
-<img src="yourphoto.jpg" alt="Profile Picture">
+<Photoroom_20250525_165207.jpeg" alt="Profile Picture">
 
 <div class="hero-text">
 
@@ -383,27 +383,40 @@ My dream is to become successful and inspire others through hard work and kindne
 <div class="grid">
 
 <div class="interest">
+
 <i class="fa-solid fa-school"></i>
+
 <h3>Grade School</h3>
+
 <p>
-Studied at Urdaneta Elementary School where I learned the importance of education, discipline, and friendship.
+Studied at Urdaneta Elementary School where I learned the importance of education,
+discipline, and friendship.
 </p>
+
 </div>
 
 <div class="interest">
+
 <i class="fa-solid fa-book"></i>
+
 <h3>High School</h3>
+
 <p>
 Studied at Bendita National High School where I discovered my strengths and built confidence.
 </p>
+
 </div>
 
 <div class="interest">
+
 <i class="fa-solid fa-graduation-cap"></i>
+
 <h3>College</h3>
+
 <p>
 Studied BS Accountancy at AMA University Quezon City and currently studying Customs Administration at LPU Manila.
 </p>
+
 </div>
 
 </div>
@@ -427,6 +440,56 @@ Studied BS Accountancy at AMA University Quezon City and currently studying Cust
 
 </section>
 
+<!-- FAMILY -->
+
+<section id="family">
+
+<div class="section-title">
+<h2>Family Background</h2>
+</div>
+
+<div class="grid">
+
+<div class="interest">
+
+<i class="fa-solid fa-user"></i>
+
+<h3>Father</h3>
+
+<p>
+My father is hardworking, responsible, and supportive.
+</p>
+
+</div>
+
+<div class="interest">
+
+<i class="fa-solid fa-heart"></i>
+
+<h3>Mother</h3>
+
+<p>
+My mother is loving, caring, and always motivates me.
+</p>
+
+</div>
+
+<div class="interest">
+
+<i class="fa-solid fa-users"></i>
+
+<h3>Siblings</h3>
+
+<p>
+My siblings are my best friends and my source of happiness.
+</p>
+
+</div>
+
+</div>
+
+</section>
+
 <!-- INTERESTS -->
 
 <section id="interests">
@@ -438,35 +501,54 @@ Studied BS Accountancy at AMA University Quezon City and currently studying Cust
 <div class="grid">
 
 <div class="interest">
+
 <i class="fa-solid fa-mug-hot"></i>
+
 <h3>Coffee Hopping</h3>
+
 <p>
-I enjoy exploring different cafés, drinks, and unique cozy ambiances.
+I enjoy coffee hopping and exploring different cafés, discovering their ambiance,
+drinks, and stories behind each business.
 </p>
+
 </div>
 
 <div class="interest">
+
 <i class="fa-solid fa-briefcase"></i>
+
 <h3>Business</h3>
+
 <p>
-I am passionate about business, entrepreneurship, branding, and customer experience.
+I am passionate about business and entrepreneurship,
+especially learning how ideas turn into successful ventures.
 </p>
+
 </div>
 
 <div class="interest">
+
 <i class="fa-solid fa-heart"></i>
+
 <h3>Personal Growth</h3>
+
 <p>
-I value continuous learning, creativity, and self-improvement.
+I value continuous learning and self-improvement,
+always finding ways to grow my skills and creativity.
 </p>
+
 </div>
 
 <div class="interest">
+
 <i class="fa-solid fa-paw"></i>
+
 <h3>Snoopy Collection</h3>
+
 <p>
 I love collecting Snoopy items because they remind me of childhood memories.
 </p>
+
 </div>
 
 </div>
@@ -502,8 +584,48 @@ I love collecting Snoopy items because they remind me of childhood memories.
 <div class="card">
 
 <p><strong>Favorite Food:</strong> Pain Au Chocolat & Spaghetti</p>
+
 <p><strong>Favorite Drink:</strong> Ice Coffee & Matcha Latte</p>
+
 <p><strong>Favorite Color:</strong> Pink</p>
+
+</div>
+
+</section>
+
+<!-- FLORAL DRESS -->
+
+<section>
+
+<div class="section-title">
+<h2>Floral Dresses</h2>
+</div>
+
+<div class="card">
+
+<p>
+My floral dress collection reflects a soft, feminine,
+and timeless style inspired by nature.
+</p>
+
+</div>
+
+</section>
+
+<!-- FRIENDS -->
+
+<section>
+
+<div class="section-title">
+<h2>My Friends</h2>
+</div>
+
+<div class="card">
+
+<p>
+These are the amazing people who make my journey more fun,
+meaningful, and unforgettable.
+</p>
 
 </div>
 
@@ -520,8 +642,8 @@ I love collecting Snoopy items because they remind me of childhood memories.
 <div class="card">
 
 <p>
-Mental health awareness is important because many people silently struggle with stress,
-anxiety, and emotional challenges.
+Mental health awareness is important because many people silently struggle
+with stress, anxiety, and emotional challenges.
 </p>
 
 <br>
@@ -532,8 +654,8 @@ anxiety, and emotional challenges.
 
 <p><strong>Effects:</strong> Depression, anxiety, and emotional struggles.</p>
 
-<p><strong>Process of Change:</strong> Spread kindness, encourage communication, and support mental health programs.</p>
-
+<p><strong>Process of Change:</strong> Spread kindness, encourage communication,
+and support mental health programs.</p>
 
 </div>
 
@@ -544,7 +666,7 @@ anxiety, and emotional challenges.
 <section id="gallery">
 
 <div class="section-title">
-<h2>Gallery</h2>r
+<h2>Gallery</h2>
 </div>
 
 <div class="gallery">
@@ -555,6 +677,9 @@ anxiety, and emotional challenges.
 <img src="IMG_9227.jpeg">
 <img src="IMG_8220.jpeg">
 <img src="IMG_2788.jpeg">
+<img src="IMG_9228.jpeg">
+<img src="6B17A764-475E-4580-AB19-B49173F7D673.jpeg">
+
 
 </div>
 
@@ -622,7 +747,7 @@ Thank you for visiting my website 🌸
 
 /* TYPING EFFECT */
 
-const text = " Dog Lover 🐶"
+const text = "Coffee Lover ☕ | Dog Lover 🐶 | Floral Soul 🌷";
 
 let i = 0;
 
@@ -643,8 +768,7 @@ function typing(){
 typing();
 
 /* FLOATING HEARTS */
-    
-    /*FLOATING FLOWERS */
+
 function createHeart(){
 
     const heart = document.createElement("div");
@@ -673,3 +797,4 @@ setInterval(createHeart,500);
 
 </body>
 </html>
+
