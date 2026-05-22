@@ -28,38 +28,6 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 
 <body>
 
-  <h1>Welcome to My Website</h1>
-  <div>
-    <p>Hello, I am Judy Ann 🌸</p>
-  </div>
-
-  <!-- CHAT CODE GOES HERE (IMPORTANT) -->
-  <script>
-    window.__lc = window.__lc || {};
-    window.__lc.organizationId = "c749a15b-f122-4d84-9fe3-faa4453eb1de";
-    window.__lc.integration_name = "manual_onboarding";
-    window.__lc.product_name = "text";
-
-    ;(function(n,t,c){
-      function i(n){return e._h?e._h.apply(null,n):e._q.push(n)}
-      var e={_q:[],_h:null,_v:"2.0",
-      on:function(){i(["on",c.call(arguments)])},
-      once:function(){i(["once",c.call(arguments)])},
-      off:function(){i(["off",c.call(arguments)])},
-      get:function(){return i(["get",c.call(arguments)])},
-      call:function(){i(["call",c.call(arguments)])},
-      init:function(){
-        var n=t.createElement("script");
-        n.async=true;
-        n.src="https://cdn.livechatinc.com/tracking.js";
-        t.head.appendChild(n);
-      }};
-      e.init();
-    })(window,document,[].slice);
-  </script>
-
-  <!-- CHAT CODE END -->
-
 body{
     font-family:'Poppins',sans-serif;
     background:linear-gradient(to bottom,#ffe6f2,#e6f2ff);
@@ -786,7 +754,7 @@ Thank you for visiting my website 🌸
 
 /* TYPING EFFECT */
 
-const text = "Coffee Lover ☕ | Dog Lover 🐶 | Floral Soul 🌷";
+const text =☕ | Dog Lover 🐶 |  🌷";
 
 let i = 0;
 
@@ -833,6 +801,37 @@ function createHeart(){
 setInterval(createHeart,500);
 
 </script>
+  <h1>Welcome to My Website</h1>
+  <div>
+    <p>Hello, I am Judy Ann 🌸</p>
+  </div>
+
+  <!-- CHAT CODE GOES HERE (IMPORTANT) -->
+  <script>
+    window.__lc = window.__lc || {};
+    window.__lc.organizationId = "c749a15b-f122-4d84-9fe3-faa4453eb1de";
+    window.__lc.integration_name = "manual_onboarding";
+    window.__lc.product_name = "text";
+
+    ;(function(n,t,c){
+      function i(n){return e._h?e._h.apply(null,n):e._q.push(n)}
+      var e={_q:[],_h:null,_v:"2.0",
+      on:function(){i(["on",c.call(arguments)])},
+      once:function(){i(["once",c.call(arguments)])},
+      off:function(){i(["off",c.call(arguments)])},
+      get:function(){return i(["get",c.call(arguments)])},
+      call:function(){i(["call",c.call(arguments)])},
+      init:function(){
+        var n=t.createElement("script");
+        n.async=true;
+        n.src="https://cdn.livechatinc.com/tracking.js";
+        t.head.appendChild(n);
+      }};
+      e.init();
+    })(window,document,[].slice);
+  </script>
+
+  <!-- CHAT CODE END -->
 
 </body>
 </html>
