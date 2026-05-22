@@ -651,7 +651,7 @@ and support mental health programs.</p>
 <img src="IMG_9228.jpeg">
 <img src="6B17A764-475E-4580-AB19-B49173F7D673.jpeg">
 <img src="IMG_8593.jpeg">
-<img src="IMG_9335.jpeg">
+<img src="Photoroom_20250525_165207.jpeg">
 </div>
 </section>
 <!-- CONTACT -->
