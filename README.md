@@ -650,16 +650,24 @@ and support mental health programs.</p>
 <img src="IMG_2788.jpeg">
 <img src="IMG_9228.jpeg">
 <img src="6B17A764-475E-4580-AB19-B49173F7D673.jpeg">
-<img src="IMG_8593.jpeg">
 <img src="Photoroom_20250525_165207.jpeg">
+<img src="IMG_8593.jpeg">
+	
+
 </div>
+
 </section>
+
 <!-- CONTACT -->
+
 <section id="contact">
+	
 <div class="section-title">
+	
 <h2>Contact Me</h2>
 </div>
 <div class="card contact">
+	
 <p>
 📧 Email:
 <a href="mailto:jmaranan0409@yahoo.com">
