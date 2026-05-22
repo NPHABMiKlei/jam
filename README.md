@@ -339,13 +339,9 @@ Hi! I am Judy Ann Maranan. I am a college student who loves learning new things,
 <a href="#about" class="btn">Explore More</a>
 
 </div>
-
 </section>
-
 <!-- ABOUT -->
-
 <section id="about">
-
 <div class="section-title">
 <h2>About Me</h2>
 </div>
@@ -371,9 +367,7 @@ Hi! I am Judy Ann Maranan. I am a college student who loves learning new things,
 </section>
 
 <!-- EDUCATION -->
-
 <section id="education">
-
 <div class="section-title">
 <h2>Educational Background</h2>
 </div>
@@ -422,11 +416,8 @@ I am currently studying at LPU Manila taking up Customs Administration. As a col
 </div>
 
 </section>
-
 <!-- ACHIEVEMENTS -->
-
 <section>
-
 <div class="section-title">
 <h2>Achievements</h2>
 </div>
@@ -439,7 +430,6 @@ I am currently studying at LPU Manila taking up Customs Administration. As a col
 </div>
 
 </section>
-
 <!-- FAMILY -->
 
 <section id="family">
@@ -490,11 +480,9 @@ My siblings are not only part of my family but also my best friends. I enjoy spe
 </div>
 
 </section>
-
 <!-- INTERESTS -->
 
 <section id="interests">
-
 <div class="section-title">
 <h2>My Interests</h2>
 </div>
@@ -552,11 +540,9 @@ I love collecting Snoopy items because they remind me of childhood memories.
 </div>
 
 </section>
-
 <!-- HOBBIES -->
 
 <section>
-
 <div class="section-title">
 <h2>My Hobbies</h2>
 </div>
@@ -570,11 +556,9 @@ I love collecting Snoopy items because they remind me of childhood memories.
 </div>
 
 </section>
-
 <!-- FAVORITES -->
 
 <section>
-
 <div class="section-title">
 <h2>Favorites</h2>
 </div>
@@ -588,11 +572,9 @@ I love collecting Snoopy items because they remind me of childhood memories.
 <p><strong>Favorite Color:</strong> Pink</p>
 
 </div>
-
 </section>
 
 <!-- FLORAL DRESS -->
-
 <section>
 
 <div class="section-title">
@@ -607,13 +589,11 @@ and timeless style inspired by nature.
 </p>
 
 </div>
-
 </section>
 
 <!-- FRIENDS -->
 
 <section>
-
 <div class="section-title">
 <h2>My Friends</h2>
 </div>
@@ -656,43 +636,30 @@ with stress, anxiety, and emotional challenges.
 and support mental health programs.</p>
 
 </div>
-
 </section>
-
 <!-- GALLERY -->
-
 <section id="gallery">
-
 <div class="section-title">
 <h2>Gallery</h2>
 </div>
-
 <div class="gallery">
-
 <!-- REPLACE THESE WITH YOUR OWN PHOTOS -->
-
 <img src="IMG_8039.jpeg">
 <img src="IMG_9227.jpeg">
 <img src="IMG_8220.jpeg">
 <img src="IMG_2788.jpeg">
 <img src="IMG_9228.jpeg">
 <img src="6B17A764-475E-4580-AB19-B49173F7D673.jpeg">
-
-
+<img src="IMG_8593.jpeg">
+<img src="IMG_9335.jpeg">
 </div>
-
 </section>
-
 <!-- CONTACT -->
-
 <section id="contact">
-
 <div class="section-title">
 <h2>Contact Me</h2>
 </div>
-
 <div class="card contact">
-
 <p>
 📧 Email:
 <a href="mailto:jmaranan0409@yahoo.com">
