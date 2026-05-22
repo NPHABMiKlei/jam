@@ -67,7 +67,7 @@ nav ul li a{
 nav ul li a:hover{
     color:#ff69b4;
 }
-
+	
 /* HERO */
 
 .hero{
@@ -747,7 +747,7 @@ Thank you for visiting my website 🌸
 
 /* TYPING EFFECT */
 
-const text = "Coffee Lover ☕ | Dog Lover 🐶 | Floral Soul 🌷";
+const text = " Dog Lover 🐶 ";
 
 let i = 0;
 
