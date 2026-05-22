@@ -3,7 +3,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Judy Ann Portfolio 🌸</title>
 
 <!-- GOOGLE FONTS -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -324,7 +323,8 @@ nav{
 <section class="hero">
 
 <!-- REPLACE WITH YOUR PHOTO -->
-<Photoroom_20250525_165207.jpeg" alt="Profile Picture">
+<img src= "Photoroom_20250525_165207.jpeg" alt="Profile Picture">\
+
 
 <div class="hero-text">
 
