@@ -747,25 +747,28 @@ Thank you for visiting my website 🌸
 
 /* TYPING EFFECT */
 
-let i = 0;
-
-function typing(){
-
-    if(i < text.length){
-
-        document.getElementById("typing").innerHTML += text.charAt(i);
-
-        i++;
-
-        setTimeout(typing,80);
-
-    }
-
-}
-
 typing();
 
 /* FLOATING HEARTS */
+function createHeart(){
+
+    const heart = document.createElement("div");
+
+    heart.classList.add("heart");
+
+    heart.innerHTML = "💖";
+
+    heart.style.left = Math.random() * 100 + "vw";
+
+    heart.style.animationDuration = Math.random() * 5 + 5 + "s";
+
+    heart.style.fontSize = Math.random() * 20 + 15 + "px";
+
+    document.querySelector(".hearts").appendChild(heart);
+
+    setTimeout(()=>{
+        heart.remove();
+    },10000);
 
 function createHeart(){
 
