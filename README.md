@@ -20,13 +20,6 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
     box-sizing:border-box;
     scroll-behavior:smooth;
 }
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>My Website</title>
-</head>
-
-<body>
 
 body{
     font-family:'Poppins',sans-serif;
@@ -754,7 +747,7 @@ Thank you for visiting my website 🌸
 
 /* TYPING EFFECT */
 
-const text =☕ | Dog Lover 🐶 |  🌷";
+const text = "Coffee Lover☕ | Dog Lover 🐶 | Floral Soul🌷";
 
 let i = 0;
 
@@ -799,13 +792,7 @@ function createHeart(){
 }
 
 setInterval(createHeart,500);
-
 </script>
-  <h1>Welcome to My Website</h1>
-  <div>
-    <p>Hello, I am Judy Ann 🌸</p>
-  </div>
-
   <!-- CHAT CODE GOES HERE (IMPORTANT) -->
   <script>
     window.__lc = window.__lc || {};
