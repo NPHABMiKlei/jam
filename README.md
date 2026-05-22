@@ -777,6 +777,8 @@ function createHeart(){
 
     heart.innerHTML = "💖";
 
+	flower.innerHTML = "🌸";
+
     heart.style.left = Math.random() * 100 + "vw";
 
     heart.style.animationDuration = Math.random() * 5 + 5 + "s";
