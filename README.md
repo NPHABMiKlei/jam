@@ -747,7 +747,7 @@ Thank you for visiting my website 🌸
 
 /* TYPING EFFECT */
 
-const text = "Coffee Lover☕ | Dog Lover 🐶 | Floral Soul🌷";
+const text = "Coffee Lover ☕ | Dog Lover 🐶 | Floral Soul 🌷";
 
 let i = 0;
 
