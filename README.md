@@ -323,7 +323,7 @@ nav{
 <section class="hero">
 
 <!-- REPLACE WITH YOUR PHOTO -->
-<img src= "Photoroom_20250525_165207.jpeg" alt="Profile Picture">\
+<img src= "Photoroom_20250525_165207.jpeg" alt="Profile Picture">
 
 
 <div class="hero-text">
