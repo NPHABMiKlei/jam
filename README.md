@@ -323,7 +323,7 @@ nav{
 <section class="hero">
 
 <!-- REPLACE WITH YOUR PHOTO -->
-<img src= "Photoroom_20250525_165207.jpeg" alt="Profile Picture">
+<img src= "mp4.jpeg" alt="Profile Picture">
 
 
 <div class="hero-text">
@@ -333,9 +333,7 @@ nav{
 <h2 id="typing"></h2>
 
 <p>
-Hi! I am Judy Ann Maranan. I am a college student who loves learning new things,
-spending time with family, friends, and especially with my dogs while exploring creative ideas.
-My dream is to become successful and inspire others through hard work and kindness.
+Hi! I am Judy Ann Maranan. I am a college student who loves learning new things, spending time with family, friends, and especially with my dogs while exploring creative ideas. My dream is to become successful and inspire others through hard work and kindness.
 </p>
 
 <a href="#about" class="btn">Explore More</a>
@@ -414,7 +412,9 @@ Studied at Bendita National High School where I discovered my strengths and buil
 <h3>College</h3>
 
 <p>
-Studied BS Accountancy at AMA University Quezon City and currently studying Customs Administration at LPU Manila.
+I studied BS Accountancy at AMA University Quezon City.
+
+I am currently studying at LPU Manila taking up Customs Administration. As a college student, I continue to challenge myself, learn new things, and work hard to achieve my dreams and build a successful future.
 </p>
 
 </div>
@@ -457,7 +457,8 @@ Studied BS Accountancy at AMA University Quezon City and currently studying Cust
 <h3>Father</h3>
 
 <p>
-My father is hardworking, responsible, and supportive.
+My father is hardworking, responsible, and always willing to sacrifice for our family. He inspires me to stay strong and never give up in life.
+
 </p>
 
 </div>
@@ -469,7 +470,7 @@ My father is hardworking, responsible, and supportive.
 <h3>Mother</h3>
 
 <p>
-My mother is loving, caring, and always motivates me.
+My mother is loving, caring, and supportive in everything I do. She motivates me to become a better person and always reminds me to believe in myself.
 </p>
 
 </div>
@@ -481,7 +482,7 @@ My mother is loving, caring, and always motivates me.
 <h3>Siblings</h3>
 
 <p>
-My siblings are my best friends and my source of happiness.
+My siblings are not only part of my family but also my best friends. I enjoy spending time with them, sharing laughter, and creating happy memories together.
 </p>
 
 </div>
@@ -507,8 +508,7 @@ My siblings are my best friends and my source of happiness.
 <h3>Coffee Hopping</h3>
 
 <p>
-I enjoy coffee hopping and exploring different cafés, discovering their ambiance,
-drinks, and stories behind each business.
+I enjoy coffee hopping and exploring different cafés, discovering their unique ambiance, drinks, and stories behind each business. It inspires me creatively and helps me appreciate how cafés build strong customer experiences.
 </p>
 
 </div>
@@ -520,8 +520,7 @@ drinks, and stories behind each business.
 <h3>Business</h3>
 
 <p>
-I am passionate about business and entrepreneurship,
-especially learning how ideas turn into successful ventures.
+I am passionate about business and entrepreneurship, especially learning how ideas turn into successful ventures. I'm interested in building my own business in the future and understanding how branding, marketing, and customer experience work together.
 </p>
 
 </div>
@@ -533,8 +532,7 @@ especially learning how ideas turn into successful ventures.
 <h3>Personal Growth</h3>
 
 <p>
-I value continuous learning and self-improvement,
-always finding ways to grow my skills and creativity.
+I also value continuous learning and self-improvement, always looking for ways to grow my skills, mindset, and creativity in both personal and professional life.
 </p>
 
 </div>
@@ -623,8 +621,8 @@ and timeless style inspired by nature.
 <div class="card">
 
 <p>
-These are the amazing people who make my journey more fun,
-meaningful, and unforgettable.
+These are the amazing people who make my journey more fun, meaningful, and unforgettable. Always there through ups and downs — my coffee buddy and laughter partner, someone who makes every day brighter.
+"Friends are the family we choose."
 </p>
 
 </div>
