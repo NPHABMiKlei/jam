@@ -747,7 +747,7 @@ Thank you for visiting my website 🌸
 
 /* TYPING EFFECT */
 
-const text = " Dog Lover 🐶 ";
+const text = " Judy Ann Maranan ";
 
 let i = 0;
 
